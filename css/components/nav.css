@@ -1,0 +1,16 @@
+main nav {
+  position: absolute;
+  top: 10vh;
+  right: 3vw;
+  z-index: 3;
+}
+
+main nav ul {
+  display: flex;
+}
+
+main nav ul li a {
+  font-size: 18px;
+  color: #bbb;
+  margin-right: 30px;
+}
