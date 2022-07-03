@@ -2,6 +2,7 @@
 @import "components/header.css";
 @import "components/nav.css";
 @import "components/section.css";
+@import "components/aside.css";
 
 main {
   width: 100%;
